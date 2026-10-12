@@ -1,0 +1,6 @@
+interface:
+  display_name: "Retail Forecast Evaluation"
+  short_description: "Analyze model, seed, and missing-modality performance"
+  default_prompt: "Use $retail-forecast-evaluation to assess the latest Stage 3 run and prepare its result tables."
+policy:
+  allow_implicit_invocation: true

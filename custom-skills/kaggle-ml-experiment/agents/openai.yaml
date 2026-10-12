@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kaggle ML Experiment"
+  short_description: "Run and package retail forecasting experiments on Kaggle"
+  default_prompt: "Use $kaggle-ml-experiment to prepare Notebook 03 for a reproducible GPU run."
+policy:
+  allow_implicit_invocation: true

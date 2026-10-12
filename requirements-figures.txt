@@ -1,0 +1,3 @@
+# Optional: regenerate PNG/SVG report figures. Core training does not need matplotlib.
+-r requirements.txt
+matplotlib>=3.8,<4

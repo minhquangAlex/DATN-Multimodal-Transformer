@@ -1,0 +1,6 @@
+interface:
+  display_name: "Retail Code Verify"
+  short_description: "Check and repair code for the retail forecasting project"
+  default_prompt: "Use $retail-code-verify to inspect the code I just generated, fix verified defects, and run relevant tests."
+policy:
+  allow_implicit_invocation: true

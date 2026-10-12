@@ -1,0 +1,3 @@
+-r requirements.txt
+transformers>=4.45,<5
+sentence-transformers>=3.3,<4

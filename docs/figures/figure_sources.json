@@ -1,0 +1,20 @@
+{
+  "sources": {
+    "processed_data\\v2\\stage1_summary.json": "503fe1dd4948fa9d536a81f24a29387db220a17ab9dc240073426f29d962f1e2",
+    "results\\v2\\20260916T150005Z_ea67e16e\\baseline_results.csv": "6fb6d6523f572919d00e574d9c1ae2f31c48970ccbec7ec446895d4f43c7d981"
+  },
+  "figures": [
+    "time_split_v2",
+    "product_groups_v2",
+    "baseline_results_v2"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "status": "recorded data, not simulated results",
+  "window_config": {
+    "seq_len": 12,
+    "pred_len": 2
+  }
+}

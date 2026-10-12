@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="417.6pt" viewBox="0 0 1008 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-16T22:48:53.121458</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 417.6 
+L 1008 417.6 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.48 354.96 
+L 967.68 354.96 
+L 967.68 116.928 
+L 60.48 116.928 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 60.48 207.38016 
+L 758.326154 207.38016 
+L 758.326154 140.7312 
+L 60.48 140.7312 
+z
+" clip-path="url(#p441d0a4329)" style="fill: #2563eb; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 758.326154 207.38016 
+L 863.003077 207.38016 
+L 863.003077 140.7312 
+L 758.326154 140.7312 
+z
+" clip-path="url(#p441d0a4329)" style="fill: #13876d; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 863.003077 207.38016 
+L 967.68 207.38016 
+L 967.68 140.7312 
+L 863.003077 140.7312 
+z
+" clip-path="url(#p441d0a4329)" style="fill: #c77715; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m17917f56fc" d="M 0 0 
+L 0 3.5 
+" style="stroke: #526277; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m17917f56fc" x="60.48" y="354.96" style="fill: #526277; stroke: #526277; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526277" x="60.48" y="370.318281" transform="rotate(-0 60.48 370.318281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m17917f56fc" x="758.326154" y="354.96" style="fill: #526277; stroke: #526277; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526277" x="758.326154" y="370.318281" transform="rotate(-0 758.326154 370.318281)">80</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m17917f56fc" x="863.003077" y="354.96" style="fill: #526277; stroke: #526277; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526277" x="863.003077" y="370.318281" transform="rotate(-0 863.003077 370.318281)">92</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m17917f56fc" x="967.68" y="354.96" style="fill: #526277; stroke: #526277; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526277" x="967.68" y="370.318281" transform="rotate(-0 967.68 370.318281)">104</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526277" x="514.08" y="391.902656" transform="rotate(-0 514.08 391.902656)">Số tuần tích lũy từ 2018-W39</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_6">
+    <path d="M 60.48 354.96 
+L 967.68 354.96 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(394.031436 170.932196)">Train</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(385.663702 183.249789)">80 tuần</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(779.371334 170.932196)">Validation</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(786.92524 183.249789)">12 tuần</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(902.685523 170.932196)">Test</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(891.602163 183.249789)">12 tuần</text>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b4d" x="60.48" y="37.584" transform="rotate(-0 60.48 37.584)">CHIA DỮ LIỆU THEO THỜI GIAN</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526277" x="60.48" y="62.64" transform="rotate(-0 60.48 62.64)">8,000 sản phẩm  •  104 tuần đầy đủ  •  Chọn sản phẩm chỉ từ train</text>
+  </g>
+  <g id="text_11">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="60.48" y="250.56" transform="rotate(-0 60.48 250.56)">TRAIN</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b4d" x="60.48" y="275.616" transform="rotate(-0 60.48 275.616)">2018-W39 → 2020-W14</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526277" x="60.48" y="300.672" transform="rotate(-0 60.48 300.672)">536,000 cửa sổ với L=12, H=2</text>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13876d" x="383.04" y="250.56" transform="rotate(-0 383.04 250.56)">VALIDATION</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b4d" x="383.04" y="275.616" transform="rotate(-0 383.04 275.616)">2020-W15 → 2020-W26</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526277" x="383.04" y="300.672" transform="rotate(-0 383.04 300.672)">88,000 cửa sổ với L=12, H=2</text>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c77715" x="705.6" y="250.56" transform="rotate(-0 705.6 250.56)">TEST</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b4d" x="705.6" y="275.616" transform="rotate(-0 705.6 275.616)">2020-W27 → 2020-W38</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526277" x="705.6" y="300.672" transform="rotate(-0 705.6 300.672)">88,000 cửa sổ với L=12, H=2</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526277" x="60.48" y="407.16" transform="rotate(-0 60.48 407.16)">Loại hai tuần biên không đủ 7 ngày. Mọi tuần target trong một cửa sổ phải thuộc cùng một tập.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p441d0a4329">
+   <rect x="60.48" y="116.928" width="907.2" height="238.032"/>
+  </clipPath>
+ </defs>
+</svg>

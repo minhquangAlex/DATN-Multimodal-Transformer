@@ -1,0 +1,6 @@
+# Core training and tests. Each run additionally records exact installed versions.
+numpy>=1.26,<3
+pandas>=2.2,<3
+torch>=2.6,<3
+Pillow>=10,<13
+pytest>=8,<10
