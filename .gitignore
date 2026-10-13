@@ -17,3 +17,17 @@ results/
 artifacts/
 *.zip
 integrations/kaggle/downloads/
+
+# Local editor/build state and temporary validation outputs
+.vscode/
+.codex-slide-build/
+$artifactDir/
+tmp/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex*
+*.toc
+*.xdv

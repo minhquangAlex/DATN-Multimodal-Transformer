@@ -6,9 +6,9 @@ Demo đồ án tốt nghiệp, phát triển bằng VS Code và chạy trích xu
 
 - Đã dựng lại dữ liệu H&M: **8.000 sản phẩm, 104 tuần đầy đủ**, chọn mẫu chỉ trên train; split 80/12/12 tuần.
 - Đã sửa pipeline Stage 1–3 và notebook, bổ sung kiểm định embedding, reproducibility và test end-to-end.
-- Đã chạy Zero, Last-value và Moving Average trên toàn bộ test thật của v2.
-- **Cần trích xuất lại embedding ảnh/text trên Kaggle.** Bộ local cũ có ảnh collapse và ID không đồng bộ; đã đánh dấu không hợp lệ.
-- Chưa công bố kết quả learning baseline đa seed hoặc Multimodal Transformer; Stage 4–5 là phần tiếp theo.
+- Đã trích xuất và kiểm định embedding cho **8.000 sản phẩm**: ảnh CLIP ViT-B/32 768 chiều (7.974 ảnh đọc được; 26 ảnh thiếu) và văn bản all-MiniLM-L6-v2 384 chiều.
+- Đã hoàn tất Stage 3 với run `20260920T085601Z_2c55ebb8`: 8 baseline gồm baseline xác định và mô hình học máy, 3 seed `[42, 43, 44]`; có ablation cùng checkpoint và huấn luyện lại.
+- Phạm vi hiện tại dừng ở baseline Stage 3, trong đó có **Multimodal MLP**. Multimodal Transformer, học với modality bị thiếu và alignment vẫn là các bước dự kiến tiếp theo, chưa được xem là kết quả đã triển khai.
 
 ## Workflow và hình minh họa
 
@@ -33,6 +33,8 @@ Tiếp theo chạy notebook 02 trên Kaggle để tạo embedding v2; khi đã k
 
 ## Tài liệu
 
+- [Báo cáo giữa kỳ (PDF)](reports/midterm/main.pdf)
+- [Mã nguồn báo cáo LaTeX](reports/midterm/main.tex)
 - [Giai đoạn 1: dữ liệu và split](docs/stage1_description.md)
 - [Giai đoạn 2: ảnh thật, embedding và provenance](docs/stage2_description.md)
 - [Giai đoạn 3: baseline, metric và hai protocol ablation](docs/stage3_description.md)
@@ -43,6 +45,14 @@ Tiếp theo chạy notebook 02 trên Kaggle để tạo embedding v2; khi đã k
 ## Lưu ý về phiên bản
 
 `processed_data/v2/`, `embeddings/` và `results/v2/` là các artifact đang dùng. Không ghép embedding với danh sách sản phẩm từ một phiên bản dữ liệu khác. Hash và kiểm định runtime sẽ phát hiện dữ liệu không đồng bộ.
+
+PDF báo cáo được biên dịch bằng XeLaTeX. Từ thư mục gốc dự án, có thể biên dịch lại bằng:
+
+```bash
+latexmk -xelatex -interaction=nonstopmode -halt-on-error reports/midterm/main.tex
+```
+
+Máy cần cài XeLaTeX/latexmk và các font được khai báo trong tài liệu.
 
 ## Cấu trúc thư mục đang dùng
 
